@@ -1,0 +1,51 @@
+.card {
+    padding: 20p 20pxx;
+    display: inline-block;
+    margin-left: 100px;
+    text-align: center;
+    height: 430px;
+      
+}
+
+
+#boxess {
+    height: 450px; 
+    width: auto;
+    border: 1px solid black;
+    padding-left: 300px;
+    background-color: cornflowerblue;
+    
+}
+img{
+    height: 200px;
+    width: 100px;
+}
+h2, p{
+    text-align: center;
+}
+.lastp{
+    padding: 100px 40px;
+    text-align: center;
+}
+.riding , .books{
+    margin: 50px;
+    height: 600px;
+    width:auto;
+    background-color: cornflowerblue;
+}
+
+
+th, td {
+    border: 1px solid black;
+  }
+
+  table{
+      border: 2px green;
+      text-align: center;
+      margin-left: 750px;
+  }
+
+
+  .mbooks{
+      text-align: center;
+  }
