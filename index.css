@@ -1,0 +1,85 @@
+#nav{
+    background-color: lightgray;
+    height: 40px;
+    width: auto;
+    
+}
+
+
+
+.navigation{
+    text-align: center;
+   padding: 10px;
+    
+    
+}
+.hobies{
+    border: 1px solid green;
+    padding: 5px;
+    margin: 60px;
+    color: white;
+}
+a:hover{
+    background-color: lightblue;
+}
+
+
+#idealvacation{
+
+background-color: lightseagreen;
+height: 700px; 
+width: auto;
+margin-left:300px;
+}
+body{
+    background-image: url(https://www.telegraph.co.uk/content/dam/Travel/2019/June/dom-rep-GettyImages-1064972454.jpg);
+    background-size: 2000px 1080px;
+    background-repeat: no-repeat;
+
+
+
+}
+
+    
+
+
+
+
+
+
+
+
+#AboutMe {
+max-width: 200px;
+min-width: 100;
+margin-left: 40px;
+border: 5px solid blue;
+border-radius: 100%;
+border-right-width: 10px;
+
+}
+
+#RGG{
+margin-top: 10px;
+margin-left: 40px;
+border: 2px solid blue;
+width: 200px;
+height: 50px;
+box-sizing: border-box;
+padding: 5px;
+background-color: lightskyblue;
+
+
+
+    
+}
+#middle{
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    background-color: lightskyblue;
+}
+p{ background-color: lightskyblue;}
+
+
+
