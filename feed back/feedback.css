@@ -1,0 +1,10 @@
+#form {
+    width: 700px;
+    height: 700px;
+    display: flexbox;
+    margin-left: 500px;
+}
+h1{
+    text-align: center;
+    margin-right: 150px;
+}
